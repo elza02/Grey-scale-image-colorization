@@ -24,8 +24,12 @@ The generator operates in the CIELAB color space, where:
 - Chrominance channels (ab) are predicted.
 
 ## Getting Started
-
-### 1. Setting up the Environment
+### 1. Clone the repository:
+```bash
+git clone https://github.com/elza02/Grey-scale-image-colorization.git
+cd Grey-scale-image-colorization
+```
+### 2. Setting up the Environment:
 To replicate the results, a Python virtual environment is recommended.
 
 ```bash
