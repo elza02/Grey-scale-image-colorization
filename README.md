@@ -29,7 +29,11 @@ The generator operates in the CIELAB color space, where:
 git clone https://github.com/elza02/Grey-scale-image-colorization.git
 cd Grey-scale-image-colorization
 ```
-### 2. Setting up the Environment:
+### 2: Download Pre-trained VGG Weights:
+```bash
+wget https://github.com/fchollet/deep-learning-models/releases/tag/v0.1/
+```
+### 3. Setting up the Environment:
 To replicate the results, a Python virtual environment is recommended.
 
 ```bash
