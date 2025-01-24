@@ -11,6 +11,7 @@ This project implements a novel image colorization method using Transformer arch
 - **Color Encoder and Transformer**: Enhance the integration of grayscale and color features for better results.
 
 ## Architecture
+![image](https://github.com/user-attachments/assets/dbf4ffc3-2dd5-4c96-8d0e-5877fc624c32)
 
 The proposed architecture is an encoder-decoder framework with the following components:
 1. **Color Encoder**: Generates color features from a random normal distribution.
