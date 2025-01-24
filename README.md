@@ -31,7 +31,7 @@ cd Grey-scale-image-colorization
 ```
 ### 2: Download Pre-trained VGG Weights:
 ```bash
-wget https://github.com/fchollet/deep-learning-models/releases/tag/v0.1/
+https://github.com/fchollet/deep-learning-models/releases/tag/v0.1/
 ```
 ### 3. Setting up the Environment:
 To replicate the results, a Python virtual environment is recommended.
